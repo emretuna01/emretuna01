@@ -3,4 +3,6 @@
  <h2 align="center">GitHub Stats</h2>
  <p align="center">a person that passionate about coding</p>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=emretuna01&show_icons=true&theme=dracula&count_private=true" alt="GitHub Readme Stats Themes" width="600px"/>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=emretuna01&show_icons=true&theme=dracula&count_private=true&border_radius=20" alt="GitHub Readme Stats Themes" width="600px"/>
+ </p>
