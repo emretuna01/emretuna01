@@ -13,3 +13,5 @@
   </p>
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=emretuna01&show_icons=true&theme=dracula&count_private=true&border_radius=20" alt="GitHub Readme Stats Themes" width=500px"/>
+
+![](https://hit.yhype.me/github/profile?user_id=42046428)
