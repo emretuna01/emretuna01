@@ -4,5 +4,5 @@
  <p align="center">a person that passionate about coding</p>
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emretuna01&show_icons=true&theme=dracula&count_private=true&border_radius=20" alt="GitHub Readme Stats Themes" width="600px"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=emretuna01&show_icons=true&theme=dracula&count_private=true&border_radius=20" alt="GitHub Readme Stats Themes" width=500px"/>
  </p>
