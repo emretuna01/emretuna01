@@ -12,4 +12,4 @@
     </a>
   </p>
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=emretuna01&show_icons=true&theme=dracula&count_private=true&border_radius=20" alt="GitHub Readme Stats Themes" width=500px"/>
+<img  src="![emretuna01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emretuna01&theme=vue-dark&hide_border=false)" alt="GitHub Readme Stats Themes" width=500px"/>
